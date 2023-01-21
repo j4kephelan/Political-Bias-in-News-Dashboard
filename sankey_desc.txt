@@ -1,0 +1,1 @@
+﻿This Sankey graph compares the top used nouns in New York Times and New York Post articles for the selected year and topic. By hovering over the relationship between the news outlet and the word on the right side of the graph, it will show how many times this word was used within the articles.

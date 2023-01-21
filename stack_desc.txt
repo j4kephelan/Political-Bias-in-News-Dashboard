@@ -1,0 +1,1 @@
+﻿This graph compares the sentiments over the past two decades between New York Times and New York Post articles for a selected topics. It shows the percentages of neutral, negative, and positive sentiment scores for a year’s worth of articles. It demonstrates these sentiments changing in percentage values from year to year and in relation to major events.

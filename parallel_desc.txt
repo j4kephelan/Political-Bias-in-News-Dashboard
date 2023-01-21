@@ -1,0 +1,1 @@
+﻿The parallel plot graph shows the precise negative, positive, and neutral sentiment scores for the New York Times (Journal 0) and New York Post (Journal 1) for a given topic to see the overall sentiments in articles written by these news sources for a selected year.

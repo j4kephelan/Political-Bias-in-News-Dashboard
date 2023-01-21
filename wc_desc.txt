@@ -1,0 +1,1 @@
+﻿This figure compares the most frequently used words present in New York Times and New York Post articles regarding the selected topic. The word cloud uses data from the past two decades (2002-2022).
